@@ -1,7 +1,7 @@
 ---
 title: Samael Ceccotti
 description: Designer, Artist, Researcher
-url: ""
-baseurl: "Samael-ctti.github.io"
+url: "https://samael.ctti.github.io"
+baseurl: "samaelctti.github.io"
 exclude: [README.md, Gemfile, Gemfile.lock]
 ---
