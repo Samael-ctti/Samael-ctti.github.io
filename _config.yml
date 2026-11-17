@@ -1,7 +1,5 @@
 ---
 title: Samael Ceccotti
-year: 2026
-disciplines: [Identity, Print]
-cover: /assets/img/projects/name/cover.webp
-order: 1
+description: Designer, Artist, Researcher
+exclude: [README.md, Gemfile, Gemfile.lock]
 ---
